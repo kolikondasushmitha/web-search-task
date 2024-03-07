@@ -52,3 +52,6 @@ def main():
     results = crawler.search(keyword)
     crawler.print_results(results)
 
+if __name__ == "__main__":
+    main()
+
